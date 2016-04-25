@@ -8,7 +8,7 @@
 4. 选择是否需要提示语： 请选择
 
 ## 实现
-1. 	相应的html结构，容器 div#cascade-drop-select-1,可以写相应的 select，写一些class方便使用， 也可以不写相应的 select ，仅仅写个<div id=“cascade-drop-select-1></div>，相关的select，js会自动处理.
+1. 	相应的html结构，容器 div#cascade-drop-select-1,可以写相应的 select，写一些class方便使用， 也可以不写相应的 select ，仅仅写个 `<div id=“cascade-drop-select-1></div>`，相关的select添加，js会自动处理.
 
 	``` html
 	<div id=“cascade-drop-select-1>
